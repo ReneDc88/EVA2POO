@@ -9,6 +9,8 @@ package com.mycompany.eva2_13_polimorfismo_2;
  * @author rener
  */
 public interface MostrarDatos {
-    public void imprimirDatos();
+    public void imprimirDatos(MostrarDatos){
+      
+    }
     
 }

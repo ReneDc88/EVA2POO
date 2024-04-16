@@ -8,6 +8,7 @@ package com.mycompany.eva2_13_polimorfismo_2;
  *
  * @author rener
  */
+//PERSONA EXTENDS MOSTRARDATOS
 public class Persona implements MostrarDatos {
  Private String nombre;
     Private String APeliido;
